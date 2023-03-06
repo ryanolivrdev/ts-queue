@@ -1,4 +1,4 @@
-# TS-NODE-TEMPLATE
+# Lista em <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  alt="Typescript" height=30/>
 
 <p align="center">
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto foi construído para servir de apoio no estudo de node com typescript.
+Uma "Fila" é um tipo especial de "Lista":
+- Inserções e exclusões de elementos ocorrem nas extremidades da "lista"
+
+Em uma "Fila" podemos realizar as seguintes operações básicas:
+- inserção de um elemento no "final"
+- exclusão de um elemento do "início"
+- acesso ao elemento do "início"
+
 
 # Oque e preciso?
   - Ter o [NodeJS](https://nodejs.org/) instalado na sua máquina.
